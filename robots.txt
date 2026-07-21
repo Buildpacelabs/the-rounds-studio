@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buildpacelabs.github.io/the-rounds-studio/sitemap.xml
